@@ -15,7 +15,7 @@ Classificação de risco de enchentes com Python e Random Forest.
 - `requirements.txt`: dependências para execução local.
 
 ## Como executar
-1. Abra https://colab.research.google.com/
+1. Abra [https://colab.research.google.com/](https://colab.research.google.com/drive/1Q20XWkJvjkjz2zqdFkL7Gig4GlvSt490?usp=sharing)
 2. Faça upload de `AquaGuard_Machine_Learning_Enchentes.ipynb`.
 3. Selecione **Ambiente de execução > Executar tudo**.
 4. Aguarde todas as células e salve/baixe o notebook com as saídas.
