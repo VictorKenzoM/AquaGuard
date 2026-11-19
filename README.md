@@ -1,10 +1,8 @@
 # AquaGuard — Sistema Inteligente de Monitoramento e Prevenção de Enchentes
 
 integrantes:
-Ícaro Henrique de Souza Calixto RM560278
-Caio Costa Beraldo RM560775
-Henrique Celso Moura da Paixão Filho RM559687
-Victor Kenzo Mikado RM560057
+
+Ícaro Henrique de Souza Calixto RM560278 Caio Costa Beraldo RM560775         Henrique Celso Moura da Paixão Filho RM559687                            Victor Kenzo Mikado RM560057
 
 Classificação de risco de enchentes com Python e Random Forest.
 
